@@ -22,7 +22,7 @@ function Header() {
         
             </h1>
 
-            <img className="mx-auto" src="../../src/img/header.png" alt="header" />
+            <img className="mx-auto" src="/src/img/header.png" alt="header geometry" />
         
         </div>
         
